@@ -2,3 +2,6 @@ server:
   port: 8085
 
 service.name: cliente-config
+development-name:  maxwell
+version:  1.0
+api.name:  task-management
